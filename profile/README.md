@@ -2,16 +2,16 @@
 
 ***Framework Stack Linux-Postgres-Rust-WASM-CSS3-HTML5-Axum***
 
+ ![logo](https://github.com/liporuwcha/liporuwcha/blob/main/images/logo/logo_liporuwcha.png)  
+ liporuwcha is a "GitHub organization" that groups [multiple repositories](https://github.com/orgs/liporuwcha/repositories?q=sort%3Aname-asc) together
+
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
  ![postgres](https://img.shields.io/badge/postgres-orange)
  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
  ![liporuwcha](https://bestia.dev/webpage_hit_counter/get_svg_image/1731687223.svg)
 
- ![logo](https://github.com/liporuwcha/liporuwcha/blob/main/images/logo/logo_liporuwcha.png)  
- liporuwcha is a "GitHub organization" that groups [multiple repositories](https://github.com/orgs/liporuwcha/repositories?q=sort%3Aname-asc) together
-
-## Find README on this link
+## Find true README on this link
 
 <https://github.com/liporuwcha/liporuwcha>
 
