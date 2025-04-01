@@ -2,6 +2,9 @@
 
 ***liporuwcha/.github is a special repository***
 
+ ![logo](https://github.com/liporuwcha/liporuwcha/blob/main/images/logo/logo_liporuwcha.png)  
+ liporuwcha is a "GitHub organization" that groups [multiple repositories](https://github.com/orgs/liporuwcha/repositories?q=sort%3Aname-asc) together
+
  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 The /profile/README.md will appear on the organization's profile.
